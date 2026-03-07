@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "さよーならまたいつか！- Sayonara",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2026-03-06T13:40:29.420583Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-07T17:49:39.351809Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,70 +99,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_さよーならまたいつか!_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_さよーならまたいつか!_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_03_さよーならまたいつか!_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_04_さよーならまたいつか!_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_05_さよーならまたいつか!_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!- Sayonara",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_06_さよーならまたいつか!-_Sayonara_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!- Sayonara",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_07_さよーならまたいつか!-_Sayonara_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!- Sayonara",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_08_さよーならまたいつか!-_Sayonara_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "さよーならまたいつか!- Sayonara",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_09_さよーならまたいつか!-_Sayonara_米津玄師.txt"
     }
   ]
 }
